@@ -21,9 +21,7 @@
     <com.youth.banner.Banner xmlns:app="http://schemas.android.com/apk/res-auto"
         android:id="@+id/banner"
         android:layout_width="0dp"
-        android:layout_height="0dp"
-        android:layout_marginBottom="196dp"
-        app:layout_constraintBottom_toTopOf="@+id/textView"
+        android:layout_height="241dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
